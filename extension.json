@@ -1,0 +1,7 @@
+{
+	"version": "1.0.0",
+	"name": "알버트 AI",
+	"type": "scratch3",
+	"extensions": ["albertai"],
+	"image": "albertai-image.png"
+}
